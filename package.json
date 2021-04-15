@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/litehelpers/Cordova-sqlite-evcore-free-dependencies.git"
+    "url": "git+https://github.com/brodybits/cordova-sqlite-evcore-free-dependencies.git"
   },
   "keywords": [
     "cordova",
@@ -18,7 +18,7 @@
   "author": "Christopher J. Brody",
   "license": "GPL-3.0 OR Commercial",
   "bugs": {
-    "url": "https://github.com/litehelpers/Cordova-sqlite-evcore-free-dependencies/issues"
+    "url": "https://github.com/brodybits/cordova-sqlite-evcore-free-dependencies/issues"
   },
-  "homepage": "https://github.com/litehelpers/Cordova-sqlite-evcore-free-dependencies#readme"
+  "homepage": "https://github.com/brodybits/cordova-sqlite-evcore-free-dependencies#readme"
 }
