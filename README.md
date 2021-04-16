@@ -5,7 +5,7 @@ AUTHOR: Christopher J. Brody
 LICENSE: GPL v3 (<https://www.gnu.org/licenses/gpl-3.0.txt>) or commercial license options
 
 Contains source and library (shared object) code built from:
-- [storesafe / android-sqlite-evcore-native-driver-free](https://github.com/storesafe/android-sqlite-evcore-native-driver-free) - GPL v3 or commercial license options
+- [storesafe / android-sqlite-evcore-native-driver-free](https://github.com/storesafe/android-sqlite-evcore-native-driver-free) - with GPL v3 or commercial license options
 - [SQLite (sqlite.org)](https://sqlite.org/) - public domain
 - [brodybits / sqlite3-regexp-cached](https://github.com/brodybits/sqlite3-regexp-cached) (based on <http://git.altlinux.org/people/at/packages/?p=sqlite3-pcre.git> by Alexey Tourbin, public domain)
 - [brodybits / sqlite3-base64](https://github.com/brodybits/sqlite3-base64) (Unlicense, public domain)
