@@ -9,11 +9,11 @@ Contains source and library (shared object) code built from:
 - [SQLite (sqlite.org)](https://sqlite.org/) version `3.37.2` - public domain
 - [brodybits / sqlite3-regexp-cached](https://github.com/brodybits/sqlite3-regexp-cached) (based on <http://git.altlinux.org/people/at/packages/?p=sqlite3-pcre.git> by Alexey Tourbin, public domain)
 - [brodybits / sqlite3-base64](https://github.com/brodybits/sqlite3-base64) (Unlicense, public domain)
-- [brodybits / libb64-encode](https://github.com/brodybits/libb64-encode) (based on <http://libb64.sourceforge.net/> by Chris Venter, public domain)
+- [brodybits / libb64-core](https://github.com/brodybits/libb64-core) (based on <http://libb64.sourceforge.net/> by Chris Venter, public domain)
 
 This project provides the following dependencies needed to build Cordova SQLite evcore plugin versions:
 - `sqlite3.h`, `sqlite3.c` - SQLite amalgamation needed to build iOS and Windows versions
-- [libb64-encode](https://github.com/brodybits/libb64-encode), [sqlite3-base64](https://github.com/brodybits/sqlite3-base64), and [sqlite3-regexp-cached](https://github.com/brodybits/sqlite3-regexp-cached) source for iOS/macOS/Windows platform versions
+- [libb64-core](https://github.com/brodybits/libb64-core), [sqlite3-base64](https://github.com/brodybits/sqlite3-base64), and [sqlite3-regexp-cached](https://github.com/brodybits/sqlite3-regexp-cached) source for iOS/macOS/Windows platform versions
 - `sqlc-evcore-ndk-driver.jar` - android-sqlite-evcore-ndk-driver-free NDK library JAR built with SQLite amalgamation, with the following option flags:
    - `-DSQLITE_THREADSAFE=1`
    - `-DSQLITE_DEFAULT_SYNCHRONOUS=3`
